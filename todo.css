@@ -16,6 +16,10 @@ div{
     flex-wrap: wrap;
     margin: 0 auto;
 }
+h1{
+    background-color:red;
+    text-align:center;
+}
 button{
     background-color: purple;
     color:red;
