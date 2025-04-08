@@ -1,0 +1,25 @@
+body{
+    background-image: url('doma.jpg');
+    background-size: cover;
+}
+li{
+    color:red;
+}
+div{
+    border: 2px solid orange;
+    background-color: yellowgreen;
+    width:220px;
+    display:flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin: 0 auto;
+}
+button{
+    background-color: purple;
+    color:red;
+}
+button:hover{
+    cursor : pointer;
+}
